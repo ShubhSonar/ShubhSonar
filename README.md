@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShubhSonar
 - 👀 I’m interested in product innovations, programming, food and entertainment all on enterprise scale.
 - 🌱 I’m currently learning alot.
-- 💞️ I’m looking to collaborate on innovative ideas.
 - 📫 Reach me: twitter@coderhamster
 
 <!---
